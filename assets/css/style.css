@@ -3082,8 +3082,8 @@ p:last-child {
     background-image: url(../img/page-banner/banner3.jpg);
 }
 .page-banner .page-content {
-    margin-top: 115px;
-    background-color: rgba(48, 29, 68, 0.9);
+    margin-top: 15px;
+    background-color: rgb(255 255 255 / 80%);
     max-width: 970px;
     padding: 40px 20px;
     border-radius: 5px;
@@ -3091,7 +3091,7 @@ p:last-child {
     margin-right: auto;
 }
 .page-banner .page-content h2 {
-    color: #fff;
+    color: #301d44;
     position: relative;
     text-transform: capitalize;
     font-size: 35px;
@@ -3109,7 +3109,7 @@ p:last-child {
     font-size: 15px;
     margin-right: 15px;
     text-transform: capitalize;
-    color: #fff;
+    /*color: #fff;*/
 }
 .page-banner .page-content ul li:last-child {
     margin-right: 0;
@@ -3123,7 +3123,7 @@ p:last-child {
     display: none;
 }
 .page-banner .page-content ul li a {
-    color: #fff;
+    color: #0d6efd;
 }
 .page-banner .page-content ul li a:hover {
     color: #f7941d;
@@ -3257,7 +3257,7 @@ p:last-child {
     color: #d0ced3;
 }
 .our-services-area {
-    background-color: #f6f5fa;
+    background-color: #f8f9fb;
 }
 .our-services-area .service-card-two .freight-text {
     border-radius: 5px;
@@ -4781,5 +4781,5 @@ blockquote::after,
     line-height: 30px;
 }
 .newsletter-area{
-	background-color: #f8f9fb;
+    background-color: #f8f9fb;
 }
