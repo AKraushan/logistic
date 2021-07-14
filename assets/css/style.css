@@ -1241,7 +1241,7 @@ p:last-child {
 }
 .about-area .about-tabs .tab-contant {
     background: #ffffff;
-    padding: 30px 20px;
+    padding: 15px 5px;
     -webkit-box-shadow: 3px 7px 20px 0 #e8e8e8;
     box-shadow: 3px 7px 20px 0 #e8e8e8;
     border: 8px solid #fff;
@@ -3091,7 +3091,7 @@ p:last-child {
 }
 .page-banner .page-content {
     margin-top: 15px;
-    background-color: rgb(255 255 255 / 80%);
+    /*background-color: rgb(255 255 255 / 80%);*/
     max-width: 970px;
     padding: 40px 20px;
     border-radius: 5px;
@@ -3099,7 +3099,7 @@ p:last-child {
     margin-right: auto;
 }
 .page-banner .page-content h2 {
-    color: #301d44;
+    color: #ffffff;
     position: relative;
     text-transform: capitalize;
     font-size: 35px;
@@ -3121,17 +3121,19 @@ p:last-child {
 }
 .page-banner .page-content ul li:last-child {
     margin-right: 0;
+    color: #f7941d;
 }
 .page-banner .page-content ul li::before {
     content: "/";
     position: absolute;
     right: -13px;
+    color: #fff;
 }
 .page-banner .page-content ul li:last-child::before {
     display: none;
 }
 .page-banner .page-content ul li a {
-    color: #0d6efd;
+    color: #ffffff;
 }
 .page-banner .page-content ul li a:hover {
     color: #f7941d;

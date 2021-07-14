@@ -3,3 +3,19 @@
     background-color: #006747;
     border-color: #006747;
 }
+.page-banner .d-table-cell{
+    background-color: rgb(0 103 71 / 70%);
+}
+.bg-theam{
+    background-color: #f8f9fb;
+}
+.sidebar .services-group a{
+   color: #6c6377;
+   transition: all 0s;
+}
+.sidebar .services-group a:hover{
+   color: #f7941d;
+}
+.mt-33px{
+    margin-top: 33px;
+}
