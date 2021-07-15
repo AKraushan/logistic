@@ -19,3 +19,18 @@
 .mt-33px{
     margin-top: 33px;
 }
+.page-title{
+    background: #006747;
+    color: #ffffff;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+.font-weight-bold{
+    font-weight: 700!important;
+}
+.text-black{
+    color: #000000;
+}
+.list-style-none{
+    list-style: none;
+}
