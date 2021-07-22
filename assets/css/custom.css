@@ -72,3 +72,13 @@
     border-radius: 50%;
      margin-bottom: 0px; 
 }
+.top-circle-area{
+    margin-top: -50px;
+    z-index: 1;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.pb-150{
+    padding-bottom: 150px !important;
+}
